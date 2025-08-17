@@ -49,8 +49,8 @@
   </a>
 
 <!-- Graphics (MiniLibX via X11 + OpenGL) -->
-<a href="https://www.x.org/wiki/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/X11.svg/512px-X11.svg.png" alt="x11" width="40" height="40"/>
+<a href="https://github.com/42Paris/minilibx-linux" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/48/graphics-tablet.png" alt="minilibx" width="40" height="40"/>
 </a>
 <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/>
