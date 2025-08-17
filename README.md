@@ -52,10 +52,10 @@
 
 ## 📌 Featured Projects
 
-- 🔹 **[Minishell](#)** — Unix-like shell in C (processes, pipes, redirections)
-- 🔹 **[Cub3D](#)** — Raycasting 3D (MiniLibX) with textures & input events
-- 🔹 **[NinjaDB](#)** — AI-powered DB assistant (FastAPI · Python · PostgreSQL)
-- 🔹 **[C++ Webserver](#)** — HTTP/1.1 with CGI, Nginx-style config, epoll
+- 🔹 **[Minishell](https://github.com/vlow-dev/Minishell)** — Unix-like shell in C (processes, pipes, redirections)
+- 🔹 **[Cub3D](https://github.com/vlow-dev/Cub3D)** — Raycasting 3D (MiniLibX) with textures & input events
+- 🔹 **[NinjaDB](https://github.com/FungusSpore/NinjaDB)** — AI-powered DB assistant (FastAPI · Python · PostgreSQL)
+- 🔹 **[C++ Webserver](https://github.com/FungusSpore/WebServ)** — HTTP/1.1 with CGI, Nginx-style config, epoll
 
 ---
 
