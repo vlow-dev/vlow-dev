@@ -48,13 +48,13 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 
-  <!-- MiniLibX (via X.Org) + OpenGL (optional) -->
-  <a href="https://www.x.org/wiki/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/xorg/xorg-icon.svg" alt="xorg (for MiniLibX)" width="40" height="40"/>
-  </a>
-  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/>
-  </a>
+<!-- Graphics (MiniLibX via X11 + OpenGL) -->
+<a href="https://www.x.org/wiki/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/X11.svg" alt="x11" width="40" height="40"/>
+</a>
+<a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/>
+</a>
 </p>
 
 ---
