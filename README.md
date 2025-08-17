@@ -57,8 +57,6 @@
 - 🔹 **[NinjaDB](#)** — AI-powered DB assistant (FastAPI · Python · PostgreSQL)
 - 🔹 **[C++ Webserver](#)** — HTTP/1.1 with CGI, Nginx-style config, epoll
 
-> Replace `#` with your repo links when ready.
-
 ---
 
 <p align="center">
@@ -66,10 +64,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlow-dev&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<!-- Optional streaks card; uncomment if you want it-->
+<!-- Optional streaks card; uncomment if you want it
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vlow-dev&theme=tokyonight" height="160"/>
 </p>
+-->
 
 ---
 
