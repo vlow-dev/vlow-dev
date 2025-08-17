@@ -1,62 +1,101 @@
 # Hi, I'm Vicky 👋
 
-🎓 **Cadet at 42 Kuala Lumpur (42KL)** | 💻 Aspiring Software Developer  
-🛠️ Transitioning from **Project Lead** → **System & Backend Programming**  
-🚀 Passionate about **C / C++**, problem-solving, and building real-world projects  
+🎓 **Cadet @ 42 Kuala Lumpur (42KL)**  
+🛠️ Transitioning from **Project Lead** → **Systems & Backend Developer**  
+🚀 Love **C/C++**, Unix, and building fast, correct software
 
 ---
 
 ## ⚡ Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left"> 
+  <!-- Languages -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
 
-### Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <!-- Systems & Tools -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
 
-### Others
-![MiniLibX](https://img.shields.io/badge/MiniLibX-000000?style=for-the-badge&logo=xorg&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  <!-- Frameworks / Libraries -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+
+  <!-- MiniLibX (via X.Org) + OpenGL (optional) -->
+  <a href="https://www.x.org/wiki/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/xorg/xorg-icon.svg" alt="xorg (for MiniLibX)" width="40" height="40"/>
+  </a>
+  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **[Minishell](#)** — A Unix-like shell in C with piping & redirection  
-🔹 **[Cub3D](#)** — Raycasting 3D engine (MiniLibX, inspired by Wolfenstein 3D)  
-🔹 **[NinjaDB](#)** — Hackathon project: AI-powered DB assistant (FastAPI + PostgreSQL)  
-🔹 **[C++ Webserver](#)** — Custom HTTP server with CGI, Nginx-style config  
+- 🔹 **[Minishell](#)** — Unix-like shell in C (processes, pipes, redirections)
+- 🔹 **[Cub3D](#)** — Raycasting 3D (MiniLibX) with textures & input events
+- 🔹 **[NinjaDB](#)** — AI-powered DB assistant (FastAPI · Python · PostgreSQL)
+- 🔹 **[C++ Webserver](#)** — HTTP/1.1 with CGI, Nginx-style config, epoll
+
+> Replace `#` with your repo links when ready.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlow-dev&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlow-dev&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vlow-dev&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlow-dev&layout=compact&theme=tokyonight" height="160"/>
 </p>
+
+<!-- Optional streaks card; uncomment if you want it
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vlow-dev&theme=tokyonight" height="160"/>
+</p>
+-->
 
 ---
 
 ## 🌱 About Me
 
-⚡ I love solving tough problems and learning new things  
-🌍 Based in **Kuala Lumpur, Malaysia**  
-📖 Currently exploring **system programming & backend development**  
-🤝 Open to collaborations & exciting projects!  
+- ⚡ Problem-solver who enjoys low-level & backend work  
+- 📍 Kuala Lumpur, Malaysia  
+- 📚 Currently exploring systems programming & server internals  
+- 🤝 Open to collaboration and learning together
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact
 
 ✉️ **Email**: vlow.devs@gmail.com  
-📎 **GitHub**: [github.com/vlow-dev](https://github.com/vlow-dev)  
-
----
+🔗 **LinkedIn**: https://linkedin.com/in/  
+🐙 **GitHub**: https://github.com/vlow-dev
