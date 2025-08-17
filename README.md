@@ -6,13 +6,24 @@
 
 ---
 
-## ⚡ Tech Skills
+## ⚡ Tech Stack
 
-- 🖥️ **Languages**: C / C++ (OOP), Python, Java (beginner), SQL  
-- 🐧 **Systems**: Unix/Linux & Shell, Debugging, Memory Management  
-- 🌐 **Backend**: Webserver (C++, HTTP, CGI), Docker, Git, Databases  
-- 🎨 **Graphics**: MiniLibX (2D Rendering & Event Handling)  
-- 🤝 **Professional**: Team Leadership, Project Planning, Problem-Solving  
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Others
+![MiniLibX](https://img.shields.io/badge/MiniLibX-000000?style=for-the-badge&logo=xorg&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
