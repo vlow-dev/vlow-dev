@@ -48,15 +48,6 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 
-<!-- Graphics (MiniLibX via X11 + OpenGL) -->
-<a href="https://github.com/42Paris/minilibx-linux" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/48/graphics-tablet.png" alt="minilibx" width="40" height="40"/>
-</a>
-<a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" alt="opengl" width="40" height="40"/>
-</a>
-</p>
-
 ---
 
 ## 📌 Featured Projects
@@ -97,5 +88,4 @@
 ## 📫 Contact
 
 ✉️ **Email**: vlow.devs@gmail.com  
-🔗 **LinkedIn**: https://linkedin.com/in/  
 🐙 **GitHub**: https://github.com/vlow-dev
