@@ -1,8 +1,8 @@
 # Hi, I'm Vicky 👋
 
 🎓 **Cadet @ 42 Kuala Lumpur (42KL)**  
-🛠️ Transitioning from **Project Lead** → **Systems & Backend Developer**  
-🚀 Love **C/C++**, Unix, and building fast, correct software
+📍 Currently training at **42 Kuala Lumpur (42KL)**  
+💻 Building skills in **C / C++**, Unix systems, Fullstack development, and graphics  
 
 ---
 
